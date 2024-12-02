@@ -1566,7 +1566,6 @@ img{
 }
 @media (max-width: 949px) {
   .aff-l__affiliate.aff-l__affiliate--updated:before {
-    background: url(/html/site/img/affiliates/quote2.svg);
     background-size: 100%;
     height: 48px;
     width: 52px;
